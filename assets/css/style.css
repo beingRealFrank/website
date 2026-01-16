@@ -1,12 +1,17 @@
 ---
 ---
 @import "{{ site.theme }}";
-.btn {
+
+/* Target every common GitHub Pages theme button selector */
+.btn, 
+.github-button, 
+#forkme_banner, 
+.project-tagline + .btn, 
+header .btn,
+section.page-header .btn {
   display: none !important;
-}
-#forkme_banner {
-  display: none !important;
-}
-header {
-  display: none;
+  visibility: hidden !important;
+  height: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
 }
