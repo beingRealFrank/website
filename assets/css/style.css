@@ -1,9 +1,0 @@
----
----
-@import "{{ site.theme }}";
-
-/* Target the exact class from your inspect results */
-.btn-github {
-  display: none !important;
-  visibility: hidden !important;
-}
