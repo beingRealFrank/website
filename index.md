@@ -11,4 +11,4 @@ I've organized my posts into two broad categories: [blather](/blather/), and [us
 I am obsessed with Pokémon Go. 
 
 ## <ins>Pages</ins>
-[Pokémon Go Resources](/pokemon-go/)
+- [Pokémon Go Resources](/pokemon-go/)
