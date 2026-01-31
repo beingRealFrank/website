@@ -8,7 +8,8 @@ permalink: /pokemon-go/
 - [Tips and Tricks](#tips-and-tricks)
   - [Quick Catching](#quick-catching)
   - [The Circle Lock](#the-circle-lock)
-  - [Quick Catching](#task-stacking)
+  - [Task Stacking](#task-stacking)
+- [Other Resources](#other-resources)
  
 # Introduction
 I've been playing Pokémon Go since 2016. I've learned a number of things about the game that aren't obvious to new players. I thought I'd begin to collect tips, tricks, and descriptions of these more advanced gameplay lessons.
@@ -28,11 +29,17 @@ This is especially important when encountering a Legendary pokémon, generally c
 
 Circle Locking is a technique for freezing the oscillating inner target circle in a location that ensures you achieve the throw rating you want. This [video demonstrates the circle locking technique](https://www.youtube.com/shorts/mFxdTlG2-Vo).
 
+[Top](#table-of-contents)
+
 ## Task Stacking
 Task stacking is pretty simple. When you receive an encounter from a research task in the "Today" tab, you don't have to catch it. The catch is guaranteed, the pokémon won't run away. You can feed the pokémon a berry for easier catching or increased candy later and just exit the catch screen. When you return you'll see a thin orange "Claim Reward" box. Clicking it will return all the encounters sequentially for catching.
 
 As of the time of this writing, it was believed you could stack a total of 100 encounters. This is especially useful for maximizing double candy, stardust or XP event rewards for mon that already have increases in these rewards.
 
+[Top](#table-of-contents)
+
 # Other Resources
 * [The Silph Road Subreddit](https://www.reddit.com/r/TheSilphRoad/)
 * [LeekDuck](https://leekduck.com)
+
+[Top](#table-of-contents)
