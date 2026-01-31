@@ -10,4 +10,5 @@ I've organized my posts into two broad categories: [blather](/blather/), and [us
 
 I am obsessed with Pokémon Go. 
 
-Peruse my [Pokémon Go Resources page](/pokemon-go/), feel free to ask me questions.
+# Pages
+[Pokémon Go Resources](/pokemon-go/)
