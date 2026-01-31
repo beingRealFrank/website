@@ -19,6 +19,8 @@ New Pokémon trainers are walked through a number of research tasks that introdu
 ## Quick Catching
 Quick catching is a method for skipping the animations/screens that appear after you catch a pokémon. This makes catching several pokémon in a row a lot faster and is useful for things like Community Days. This is a [video detailing the quick catch method](https://www.youtube.com/shorts/SaCujhnbJj0). It takes practice, but is totally worth it.
 
+[Top](#table-of-contents)
+
 ## The Circle Lock
 The two circles targeting a pokémon with a pokéball indicate where you have to aim for catching it. The inner circle measures how close to the center of the outer circle you are and rates your throw as "Nice! Great! or Excellent!". Pokémon Go at its core is a game of statistics and random number generation. Excellent throws give you a higher likelihood of catching the mon.
 
