@@ -6,9 +6,9 @@ permalink: /pokemon-go/
 # Table of Contents
 - [Introduction](#introduction)
 - [Tips and Tricks](#tips-and-tricks)
-  - [Quick Catching](#~quick-catching)
-  - [The Circle Lock](#~the-circle-lock)
-  - [Quick Catching](#~task-stacking)
+  - [Quick Catching](#quick-catching)
+  - [The Circle Lock](#the-circle-lock)
+  - [Quick Catching](#task-stacking)
  
 # Introduction
 I've been playing Pokémon Go since 2016. I've learned a number of things about the game that aren't obvious to new players. I thought I'd begin to collect tips, tricks, and descriptions of these more advanced gameplay lessons.
