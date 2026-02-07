@@ -23,7 +23,7 @@ They shifted me from worrying about everything outside my control to actually lo
 
 The biggest turning point was going back to my ADHD diagnosis. Not obsessing about it. Just admitting that I needed structure, needed help, and needed to stop pretending I'd figure it out alone.
 
-Once I actually followed through, things started to click. Meds finally make sense. My focus is better. My impulses are calmer, and all of it's lifted my mood.
+Once I actually followed through, things started to click. Meds finally make sense. My focus is better. My impulses are calmer, and it's lifted my mood.
 
 If there is any takeaway here, it is simply this:
 
