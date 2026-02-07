@@ -4,7 +4,7 @@ tags: [mental health]
 categories: Useful
 ---
 
-I’ve struggled with my mental health, but the last year has been different. I finally started feeling like myself again. I wasn’t broken or sick, but I’m a better person than I was.
+I’ve struggled with my mental health, but the last year has been different. I finally started feeling like myself again. I wasn’t broken or sick, but I’m a better person now.
 
 I’m sharing this because a few things really helped me. They won’t land for everyone, but they were huge for me and if they help someone, I’ll be happy.
 
