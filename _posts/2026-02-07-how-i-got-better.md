@@ -12,9 +12,12 @@ What actually moved the needle was realizing two things worked together: getting
 
 A men’s group I joined gave me a reading list, and a few books hit me harder than I expected:
 
-* Taking Responsibility by Nathaniel Branden
-* Extreme Ownership by Jocko Willink
-* No More Mr. Nice Guy by Robert Glover
+* Taking Responsibility
+   * by Nathaniel Branden
+* Extreme Ownership 
+   * by Jocko Willink
+* No More Mr. Nice Guy 
+  * by Robert Glover
 
 They shifted me from worrying about everything outside my control to actually looking inward. I always thought I lived that way, but I really wasn’t.
 
