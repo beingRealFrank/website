@@ -13,15 +13,15 @@ What actually moved the needle was realizing two things worked together: getting
 A men’s group I joined gave me a reading list, and a few books hit me harder than I expected:  
 
 * Taking Responsibility by Nathaniel Branden  
- * Extreme Ownership by Jocko Willink  
+* Extreme Ownership by Jocko Willink  
 * No More Mr. Nice Guy by Robert Glover
 
 They shifted me from obsessing about everything outside my control to actually looking inward. I always thought I lived that way, but I really wasn’t.
 
-The biggest turning point was going back to my ADHD diagnosis. Not rebooting it. Just admitting that I needed structure, needed help, and needed to stop pretending I could figure it out later. 
+The biggest turning point was going back to my ADHD diagnosis. Not obsessing about it. Just admitting that I needed structure, needed help, and needed to stop pretending I could figure it out later. 
 
 Once I actually followed through, things started to click. Meds finally make sense. My focus is better. My impulses are calmer, and all of it has lifted my mood.
 
 If there is any takeaway here, it is simply this:
 
-Getting better happened when I stopped outsourcing everything to other people and stopped pretending I didn’t need them.
+I got better when I stopped outsourcing everything to other people AND stopped pretending I didn’t need them.
