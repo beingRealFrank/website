@@ -1,0 +1,20 @@
+{% comment %}
+  Cropped Instagram embed: shows only the photo, hiding Instagram's
+  white header and footer. The embed is always 300px wide, so the
+  photo's height depends on its shape.
+
+  Usage:
+    {% include instagram.html id="DRaI9VeiXSO" shape="tall" -%}
+
+  shape: square (1:1), portrait (4:5), tall (3:4), landscape (1.91:1).
+  Defaults to square. Pass height="NNN" to override (photo height in px
+  at 300px wide).
+{% endcomment -%}
+{%- case include.shape -%}
+  {%- when "portrait" -%}{%- assign ig_h = 375 -%}
+  {%- when "tall" -%}{%- assign ig_h = 400 -%}
+  {%- when "landscape" -%}{%- assign ig_h = 157 -%}
+  {%- else -%}{%- assign ig_h = 300 -%}
+{%- endcase -%}
+{%- if include.height -%}{%- assign ig_h = include.height -%}{%- endif -%}
+<div class="ig-crop" style="height: {{ ig_h }}px"><iframe src="https://www.instagram.com/p/{{ include.id }}/embed" width="300" height="{{ ig_h | plus: 200 }}" frameborder="0" scrolling="no" allowtransparency="true" title="{{ include.title | default: 'Photo on Instagram' }}"></iframe></div>

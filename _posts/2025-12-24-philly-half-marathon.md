@@ -5,15 +5,7 @@ tags: [running, pics]
 categories: Blather
 ---
 
-<iframe 
-  src="https://www.instagram.com/p/DRaI9VeiXSO/embed"
-  width="300"
-  height="360"
-  frameborder="0"
-  scrolling="no"
-  allowtransparency="true"
-  style="background: transparent;"
-></iframe>
+{% include instagram.html id="DRaI9VeiXSO" shape="tall" title="Philly Half Marathon photo on Instagram" %}
 Thought I'd embed a pic from Instagram.
 
 If it's 2072 and you don't see it...

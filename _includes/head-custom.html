@@ -24,6 +24,28 @@
     opacity: 0.85;
   }
   .post-date::before { content: ">> "; }
+  /* Embedded media: own line, breathing room below */
+  #main_content iframe,
+  #main_content img {
+    display: block;
+    max-width: 100%;
+    margin: 0 0 1.5rem;
+  }
+  /* Instagram embeds: crop Instagram's white header and footer,
+     leaving only the photo. Header is 54px tall; box height is set
+     per photo by _includes/instagram.html. */
+  #main_content .ig-crop {
+    width: 300px;
+    max-width: 100%;
+    overflow: hidden;
+    border-radius: 4px;
+    margin: 0 0 1.5rem;
+  }
+  #main_content .ig-crop iframe {
+    width: 300px;
+    margin: -54px 0 0;
+    border: 0;
+  }
   .post-excerpt p { margin: 0 0 0.75rem; }
   .read-more { font-size: 0.9rem; }
 </style>
