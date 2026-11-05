@@ -16,7 +16,9 @@ When you do start, the thing that will probably surprise you is how easily it gi
 
 Which brings me to my favorite slide, titled "Be a tool." Yes, I know how that sounds. The tools are how you fill in those gaps. MCPs connect Claude to your stuff, like your email and calendar. Skills and hooks teach it how you like things done, so you aren't repeating yourself. Agents handle the grunt work, and I run mine in the background so I can keep working while they grind, then check on them from my phone with Remote Control. Add the Claude Chrome extension and there isn't much left that it can't do, which is probably why Mac Minis are so hard to find right now.
 
-If there's one thing I'm sure of, it's that AI isn't going away, so we might as well adapt.
+So I ended the talk by showing it off. I asked someone in the room to ask me out to dinner, and then I asked Claude, in plain English, to check my calendar for a night I was free and book us a table at Stove and Tap. It found an open night and booked the table while everyone watched. I didn't write a single line of code.
+
+That demo is really the whole talk in one shot. It took the $20 version, the tool with the scary name, and a couple of connections to my calendar and the web. None of that requires being a programmer. It just requires being willing to try, and to push a little when it says no. If there's one thing I'm sure of, it's that AI isn't going away, so we might as well adapt.
 
 And if you have questions, ask me. My answer will probably be, I don't know... yet.
 
