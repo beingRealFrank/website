@@ -1,0 +1,15 @@
+{% assign posts = site.posts | where: "categories", include.category %}
+{% if posts.size == 0 %}
+<p>Nothing to see here.</p>
+{% else %}
+<div class="post-list">
+{% for post in posts %}
+  <article class="post-summary">
+    <h3 class="post-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    <p class="post-date">{{ post.date | date: "%B %-d, %Y" }}</p>
+    <div class="post-excerpt">{{ post.excerpt }}</div>
+    <a class="read-more" href="{{ post.url | relative_url }}">read more &rarr;</a>
+  </article>
+{% endfor %}
+</div>
+{% endif %}
